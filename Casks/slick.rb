@@ -1,6 +1,6 @@
 cask "slick" do
-  version "0.1.0"
-  sha256 "a1a6f1b3553142666c7dbd3a7da2aaa1410ee46c63fc429f1c53657f06f4c8e5"
+  version "0.1.1"
+  sha256 "1a84262a5d13e3155940d6e754038bb900ace1d023eb88a461b141667b5b2837"
 
   url "https://github.com/shawntz/slick/releases/download/v#{version}/Slick-#{version}.zip"
   name "Slick"
