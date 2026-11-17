@@ -1,6 +1,6 @@
 cask "splay" do
-  version "0.3"
-  sha256 "249c732729e54baae75d806e26bdbf8505f308324be204b811eca7c55a66ec65"
+  version "0.4"
+  sha256 "a88b106c0ba88a811a962aae5cff5a7f31580cc4a86f73cd5466a4ba912f6611"
 
   url "https://github.com/shawntz/splay/releases/download/v#{version}/Splay.app.zip"
   name "Splay"
